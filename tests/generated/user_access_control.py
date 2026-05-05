@@ -1,4 +1,4 @@
-# Feature: User Access Control
+# Features: User Access Control
 # Sales Representatives can create, edit, and view Leads, Accounts, Contacts, and Opportunities.
 # Sales Managers can view reports and dashboards related to team performance and the sales pipeline.
 
